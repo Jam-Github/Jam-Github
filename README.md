@@ -11,3 +11,6 @@ Here's what I'm up to:
 ### My Github Stats
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Jam-Github&show_icons=true&theme=dark)
+
+### My Contacts
+[![Contacts](https://jam.holdings/assets/logo.gif)](https://jam.holdings/home)
