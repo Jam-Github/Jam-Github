@@ -1,6 +1,6 @@
 ### Hello 
 
-I'm Jam, a "developer" specalizing in PHP, HTML and CSS. I'm also learning Lua and some Python.
+I'm Jam, a "developer" specalizing in PHP, Python, and NodeJS.
 
 Here's what I'm up to:
 
